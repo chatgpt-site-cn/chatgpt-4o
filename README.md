@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内访问指南（支持GPT-4，无需翻墙）
 
-> 更新时间：2025年02月22日  
+> 更新时间：2025年02月25日  
 
 **无需翻墙即可全面体验 ChatGPT 中文版，支持 GPT-4 及多功能应用！**
 
@@ -28,8 +28,8 @@
 
 | 镜像网站名称         | 地址                             | 支持模型           | 免费体验 | 使用方式           | 稳定性  | 功能亮点                |
 |--------------------|----------------------------------|--------------------|----------|--------------------|---------|-------------------------|
-| 一下AI            | [www.yixiaai.com](https://www.yixiaai.com/) | GPT-3.5和4.0、4o、4o mini、o1、o1 pro      | 有       | 扫码即可（手机&电脑）       | 高，稳定运行快2年了~ 【2023年3月国内第一批上线】      | 支持 AI对话、AI绘画、AI助手、AI插件、AI文件、AI PPT等  |
-| AI智慧岛          | [chat.lify.vip](https://chat.lify.vip/) | GPT-4o、4o mini、o1、o1 pro | 有       | 扫码即可（手机&电脑）       | 高，稳定运行快2年了~ 【2023年3月第一批上线】     | 支持多模型，AI写作、AI论文、AI编程、AI办公~  |
+| 一下AI            | [chat.yixiaai.com](https://chat.yixiaai.com/) | GPT-3.5和4.0、4o、4o mini、o1、o1 pro      | 有       | 扫码即可（手机&电脑）       | 高，稳定运行快2年了~ 【2023年3月国内第一批上线】      | 支持 AI对话、AI绘画、AI助手、AI插件、AI文件、AI PPT等  |
+| AI智慧岛          | [chat.lify.vip](https://www.yixiaai.com/) | GPT-4o、4o mini、o1、o1 pro | 有       | 扫码即可（手机&电脑）       | 高，稳定运行快2年了~ 【2023年3月第一批上线】     | 支持多模型，AI写作、AI论文、AI编程、AI办公~  |
 | AI工具站       | [yixiaai.cn](https://yixiaai.cn/) | GPT-3.5和4.0、4o mini           | 有       | 扫码即可      | 高，稳定运营1年+      | 稳定快速，各种AI工具~ |
 | AI指南           | [guide1.lanjing.ai](https://guide1.lanjing.ai/) | GPT-3.5和4.0、4o、o1           | 有（手机&电脑）       | 扫码即可   | 高，稳定运营1.5年+      | AI使用指南            |
 | 小鲸鱼AI        | [ai.lansejingyu.com](https://ai.lansejingyu.com/) | GPT-4、4o          | 有（手机&电脑）       | 扫码即可     | 中，稳定运营1年+      | 界面简洁，易于使用      |
@@ -54,7 +54,7 @@
 
 **方法一：通过镜像网站快速体验**
 
-1. **选择镜像站点**：访问推荐的镜像站点（如 **[www.yixiaai.com](https://www.yixiaai.com/)**）。
+1. **选择镜像站点**：访问推荐的镜像站点（如 **[chat.yixiaai.com](https://chat.yixiaai.com/)**）。
 2. **注册或直接使用**：
    - 扫码登录：打开手机扫码，即可登录。
    - 免注册：直接进入聊天界面，输入问题即可获得回答。
