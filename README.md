@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内访问指南（支持GPT-4，无需翻墙）
 
-> 更新：2025/06/05  
+> 更新：2025/06/18  
 
 **无需翻墙即可全面体验 ChatGPT 中文版，支持 GPT-4 及多功能应用！**
 
@@ -16,7 +16,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-**ChatGPT 中文版**是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅和精准的对话体验。更适合国内用户使用~
+[**ChatGPT 中文版**](https://talk.lanjing.pro) 是 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为中文用户提供更流畅和精准的对话体验。更适合国内用户使用~
 
 - **中文支持**：提供流畅的中文对话，适用于学习、办公和日常生活。
 - **本地化服务**：通过国内镜像网站实现，无需翻墙即可访问。
@@ -29,9 +29,9 @@
 | 镜像网站名称         | 地址                             | 支持模型           | 免费体验 | 使用方式           | 稳定性  | 功能亮点                |
 |--------------------|----------------------------------|--------------------|----------|--------------------|---------|-------------------------|
 | 一下AI            | [chat.yixiaai.com](https://xsimplechat.com/) | GPT-3.5和4.0、4o、4o mini、o1、o1 pro      | 有       | 扫码即可（手机&电脑）       | 高，稳定运行快2年了~ 【2023年3月国内第一批上线】      | 支持 AI对话、AI绘画、AI助手、AI插件、AI文件、AI PPT等  |
-| AI智慧岛          | [chat.lify.vip](https://chat.lanjing.pro/) | GPT-4o、4o mini、o1、o1 pro | 有       | 扫码即可（手机&电脑）       | 高，稳定运行快2年了~ 【2023年3月第一批上线】     | 支持多模型，AI写作、AI论文、AI编程、AI办公~  |
+| AI智慧岛          | [chat.lify.vip](https://talk.lanjing.pro/) | GPT-4o、4o mini、o1、o1 pro | 有       | 扫码即可（手机&电脑）       | 高，稳定运行快2年了~ 【2023年3月第一批上线】     | 支持多模型，AI写作、AI论文、AI编程、AI办公~  |
 | AI工具站       | [yixiaai.cn](https://yixiaai.cn/) | GPT-3.5和4.0、4o mini           | 有       | 扫码即可      | 高，稳定运营1年+      | 稳定快速，各种AI工具~ |
-| AI指南           | [guide1.lanjing.ai](https://lanjingai.org/) | GPT-3.5和4.0、4o、o1           | 有（手机&电脑）       | 扫码即可   | 高，稳定运营1.5年+      | AI使用指南            |
+| AI指南           | [chat.lanjingai.org](https://chat.lanjingai.org/) | GPT-3.5和4.0、4o、o1           | 有（手机&电脑）       | 扫码即可   | 高，稳定运营1.5年+      | AI使用指南            |
 | 小鲸鱼AI        | [ai.lansejingyu.com](https://ai.lansejingyu.com/) | GPT-4、4o          | 有（手机&电脑）       | 扫码即可     | 中，稳定运营1年+      | 界面简洁，易于使用      |
 | 蓝鲸AI            | [lanjing.ai](https://lanjing.pro/) | GPT-4、4o           | 有       | 扫码即可（手机&电脑）    | 中，稳定运营1年+      | 最新模型支持            |
 
